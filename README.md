@@ -25,30 +25,21 @@
 ## 🧑‍💻 Identity Scan
 
 ```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗           ║
-║   ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║           ║
-║   ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║           ║
-║   ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║           ║
-║   ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║           ║
-║   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝           ║
-║                                                                    ║
 ╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║   SUBJECT     ║ Andrin Leo Virisario                               ║
-║   CODENAME    ║ Andrinlv                                           ║
-║   LOCATION    ║ Switzerland 🇨🇭                                     ║
-║   CLASS       ║ IT Apprentice @ Bell Food Group                    ║
-║   STATUS      ║ 🔵 ONLINE                                          ║
-║                                                                    ║
-║   SPECIALIZATIONS:                                                 ║
-║   ├── 🌐 Full-Stack Web Development                               ║
-║   ├── 🤖 Multi-Agent AI Systems                                   ║
-║   ├── 🐚 Bash & Shell Scripting                                   ║
-║   ├── 🏛️ Community & Civic Tech                                   ║
-║   └── 💡 Creative Digital Experiences                              ║
-║                                                                    ║
+║                                                                   ║
+║   SUBJECT     ║ Andrin Leo Virisario                               
+║   CODENAME    ║ Andrinlv                                           
+║   LOCATION    ║ Switzerland 🇨🇭                                     
+║   CLASS       ║ IT Apprentice @ Bell Food Group                    
+║   STATUS      ║ 🔵 ONLINE                                          
+║                                                                    
+║   SPECIALIZATIONS:                                                 
+║   ├── 🌐 Full-Stack Web Development                               
+║   ├── 🤖 Multi-Agent AI Systems                                   
+║   ├── 🐚 Bash & Shell Scripting                                  
+║   ├── 🏛️ Community & Civic Tech                                   
+║   └── 💡 Creative Digital Experiences                              
+║                                                                    
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
