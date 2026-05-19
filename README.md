@@ -4,6 +4,7 @@
 
 </div>
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,30:1a1a5e,60:00d4ff,100:0a0e27&height=280&section=header&text=ANDRIN%20LEO%20VIRISARIO&fontSize=48&fontColor=00d4ff&fontAlignY=38&desc=Fullstack+Developer+since+2025&descSize=13&descAlignY=60&animation=twinkling&stroke=00d4ff&strokeWidth=1" width="100%"/>
@@ -13,12 +14,22 @@
 </div>
 
 
-
 <div align="center">
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrinlv)
+[![Instagram](https://img.shields.io/badge/Instagram-0969DA?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrinlv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrinlv)
+[![Discord](https://img.shields.io/badge/Discord-0969DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/andrinlv)
+
 
 <br>
 
 <sub> Powered by Andrin Leo Virisario · Built with 💙  </sub>
+
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:00d4ff,100:0a0e27&height=100&section=footer&animation=twinkling" width="100%"/>
 
